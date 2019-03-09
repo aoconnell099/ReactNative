@@ -1,0 +1,9 @@
+export const FACEBOOK_LOGIN_SUCCESS = 'facebook_login_success';
+export const FACEBOOK_LOGIN_FAIL = 'facebook_login_fail';
+export const LIKE_JOB = 'like_job';
+export const CLEAR_LIKED_JOBS = 'clear_liked_jobs';
+export const LOGOUT = 'logout';
+export const UPDATE_NEW_USER = 'update_new_user';
+export const FETCH_PICTURES = 'fetch_pictures';
+export const EMPTY_FETCH_PICTURES = 'empty_fetch_pictures';
+export const UPDATE_PICTURES = 'update_pictures';

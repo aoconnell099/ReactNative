@@ -1,0 +1,61 @@
+{
+    "additionalUserInfo": Ff {
+      "isNewUser": false,
+      "profile": Object {
+        "birthday": "05/23/1995",
+        "email": "mrkeebler1310@aol.com",
+        "first_name": "Andrew",
+        "granted_scopes": Array [],
+        "id": "2290352574308677",
+        "last_name": "O'connell",
+        "name": "Andrew O'connell",
+        "picture": Object {
+          "data": Object {
+            "height": 100,
+            "is_silhouette": false,
+            "url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2290352574308677&height=100&width=100&ext=1550974701&hash=AeTHeXAW8pni5rwO",
+            "width": 100,
+          },
+        },
+      },
+      "providerId": "facebook.com",
+    },
+    "credential": Vf {
+      "a": null,
+      "accessToken": "EAAECM5QoMtgBAFJczrt3r1QyoMlgtgc9GAoSkdtd4zo1awp3vnXZCfarhZBA5SSH2ByKLhPwmvkPCH7mKts7fa0SNOgUxqEXTjQ1QhzlNjjUisRgG3nKfuvZATeqfkzOPBRutUqSZB9VBHJI3BotdYVa8psO6U75ZCQZAwZBY2k0AmqHpnzxYjtCtg6OgZBN0iV98mI7VUXjvBmVrIhG1kXsoOko6nMttUmjiBw0sMwusgZDZD",
+      "providerId": "facebook.com",
+      "signInMethod": "facebook.com",
+    },
+    "operationType": "signIn",
+    "user": Object {
+      "apiKey": "AIzaSyCQFVlBYAcoOdpVsv0GJFDvzSNzsvuomlw",
+      "appName": "[DEFAULT]",
+      "authDomain": "musicmatch-53936.firebaseapp.com",
+      "createdAt": "1548382450000",
+      "displayName": "Andrew O'connell",
+      "email": "mrkeebler1310@aol.com",
+      "emailVerified": false,
+      "isAnonymous": false,
+      "lastLoginAt": "1548382701000",
+      "phoneNumber": null,
+      "photoURL": "https://graph.facebook.com/2290352574308677/picture",
+      "providerData": Array [
+        Object {
+          "displayName": "Andrew O'connell",
+          "email": "mrkeebler1310@aol.com",
+          "phoneNumber": null,
+          "photoURL": "https://graph.facebook.com/2290352574308677/picture",
+          "providerId": "facebook.com",
+          "uid": "2290352574308677",
+        },
+      ],
+      "redirectEventId": null,
+      "stsTokenManager": Object {
+        "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijg1OWE2NDFhMWI4MmNjM2I1MGE4MDFiZjUwNjQwZjM4MjU3ZDEyOTkiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbXVzaWNtYXRjaC01MzkzNiIsIm5hbWUiOiJBbmRyZXcgTydjb25uZWxsIiwicGljdHVyZSI6Imh0dHBzOi8vZ3JhcGguZmFjZWJvb2suY29tLzIyOTAzNTI1NzQzMDg2NzcvcGljdHVyZSIsImF1ZCI6Im11c2ljbWF0Y2gtNTM5MzYiLCJhdXRoX3RpbWUiOjE1NDgzODI3MDEsInVzZXJfaWQiOiJqbDhEYk9SU2x6TDJnb29KOUV5NXZyNnVOZEsyIiwic3ViIjoiamw4RGJPUlNsekwyZ29vSjlFeTV2cjZ1TmRLMiIsImlhdCI6MTU0ODM4MjcwMSwiZXhwIjoxNTQ4Mzg2MzAxLCJlbWFpbCI6Im1ya2VlYmxlcjEzMTBAYW9sLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJmYWNlYm9vay5jb20iOlsiMjI5MDM1MjU3NDMwODY3NyJdLCJlbWFpbCI6WyJtcmtlZWJsZXIxMzEwQGFvbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJmYWNlYm9vay5jb20ifX0.VJslshxiq7avLr4xZCYtQPN9ENZSpAL5QzUQmKHUKt0AT_4UH0F_gweam0GHo3jojVQv6ZEz4aiElAbIUE_PCfJI7X2nj93B4qG6QnJtASrEALzbcnfGlFHsKje_0p4q39itfBxMJFNmMFRE-DajzN1RrtGOQcuDWdmbddrVeJR8Fee5NWKcffXAEMLEc0qEfFgCpz5Zi123dFY8QLoAiyUKuif6TEV09fms1gdyz0zD6fk60IY7HGvYC4oU49_MYqEPIpFnOLf2AixV86FWzFSZ8ZnrpfN5YPFgOPJ12GH9b4pAFX_AIq9UYC0tnp3qZ0LgSzvkOSyMgMtTRHjtrw",
+        "apiKey": "AIzaSyCQFVlBYAcoOdpVsv0GJFDvzSNzsvuomlw",
+        "expirationTime": 1548386301489,
+        "refreshToken": "AGK09AMt8AvghgcxmgmXtYF9VQ_XEDKH9l9KVIjmRtKX9N8VAPzHa4K-rCWmsVQt7kfxLuiicAm8WuTek92FHxiwwhhURW2kbiukWhA34ApE7Nh9Grw61DNI_bLL-q_9wuHB5pVo9cQXjOCrK7GAQKWk3qdSy1Fq8ZxPH4xD738XQ1kA2vLnb_NdYXnE0dng89xHyum8m2gnVi14O9G1SzS7igayJOHcCXnsnIYZlXINHrBCAcIW_WGx7wTY3JyYJY3p5rNGGteQw77JUhyzdwgCpMvx52X9F45RrFiMgPjnq88exegCC9YmwO1_t4WnIyfs3jozbyai",
+      },
+      "uid": "jl8DbORSlzL2gooJ9Ey5vr6uNdK2",
+    },
+  }
